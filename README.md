@@ -10,7 +10,7 @@ O objetivo é construir uma **tela de login simples e funcional**, explorando co
 - Layout centralizado e responsivo para melhor apresentação.  
 
 ## 🎯 Objetivo
-Praticar a criação de **interfaces de usuário** básicas e aplicar conceitos de **formulários e estilização** com HTML e CSS, sem uso de JavaScript.  
+Praticar a criação de **interfaces de usuário** básicas e aplicar conceitos de **formulários e estilização** com HTML e CSS.
 
 ## 🚀 Tecnologias utilizadas
 - HTML5  
